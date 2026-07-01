@@ -1,7 +1,7 @@
 samples('github:eddyflux/crate')
 samples({
-  wattles: 'wattles.wav'
-  }, 'https://raw.githubusercontent.com/fywqdk/strudels/wattles_mushroom/main/')
+  wattles: 'wav/wattles.wav'
+  }, 'https://raw.githubusercontent.com/fywqdk/strudels/main/wattles_mushroom/')
 
 setcps(.72)
 
